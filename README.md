@@ -1,2 +1,3 @@
 # CoreDataDemo
-Core data demo on iOS 10
+A core data demo on iOS 10
+
